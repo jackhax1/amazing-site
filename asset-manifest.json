@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/amazing-site/static/css/main.073c9b0a.css",
+    "main.js": "/amazing-site/static/js/main.9cf2d64f.js",
+    "static/js/787.e5299284.chunk.js": "/amazing-site/static/js/787.e5299284.chunk.js",
+    "static/media/logo.svg": "/amazing-site/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/amazing-site/index.html",
+    "main.073c9b0a.css.map": "/amazing-site/static/css/main.073c9b0a.css.map",
+    "main.9cf2d64f.js.map": "/amazing-site/static/js/main.9cf2d64f.js.map",
+    "787.e5299284.chunk.js.map": "/amazing-site/static/js/787.e5299284.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.9cf2d64f.js"
+  ]
+}
